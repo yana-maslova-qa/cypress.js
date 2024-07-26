@@ -1,0 +1,4 @@
+{
+  "conf_number": "#cardnumber",
+  "sub_button": ".payment__submit-button"
+}

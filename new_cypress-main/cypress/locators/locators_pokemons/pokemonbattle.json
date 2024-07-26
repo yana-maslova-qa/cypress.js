@@ -1,0 +1,15 @@
+{
+  "trener_button": ".header__btns > :nth-child(4)",
+  "trener1": ":nth-child(1) > .shop__button",
+  "trener2": ":nth-child(2) > .shop__button",
+  "trener3": ":nth-child(3) > .shop__button",
+  "trener4": ":nth-child(4) > .shop__button",
+  "trener5": ":nth-child(5) > .shop__button",
+  "trener6": ":nth-child(6) > .shop__button",
+  "trener7": ":nth-child(7) > .shop__button",
+  "trener8": ":nth-child(8) > .shop__button",
+  "trener9": ":nth-child(9) > .shop__button",
+  "trener10": ":nth-child(10) > .shop__button",
+  "trener11": ":nth-child(11) > .shop__button",
+  "trener12": ":nth-child(12) > .shop__button"
+}

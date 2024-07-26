@@ -1,0 +1,7 @@
+{
+  "nomer": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+  "data": ".k_input_date",
+  "cod": ".k_input_ccv",
+  "name": ".k_input_name" ,
+  "pay_btn": ".pay-btn"
+}
